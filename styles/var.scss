@@ -1,0 +1,13 @@
+$darktext_a:#333333;
+$darktext_b: #454545;
+$brandcolor: #462686;
+$brandcolor_light:#7837F8;
+$lighttext: #ffffff;
+$btnradius: 100px;
+
+@mixin contentflex {
+  display: flex;
+  padding: 100px 0 0;
+  width: 80%;
+  margin: auto;
+}
