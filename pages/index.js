@@ -1,6 +1,6 @@
 import Header from '../components/header'
 import Nav from '../components/nav'
-import HeroHome from '../components/herohome'
+import HeroHome from '../components/heroHome'
 import Brands from '../components/brands'
 import Features from '../components/features'
 import Dashboard from '../components/dashboadDisplay'
